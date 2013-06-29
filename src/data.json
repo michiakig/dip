@@ -1,4 +1,6 @@
 var data={
+
+
 "Adriatic Sea":{"name":"Adriatic Sea","type":"sea","abbrevs":["adr","adriatic","ads"],"supply":false,"abbrev":"ads","region":"Mediterranean"},
 "Aegean Sea":{"name":"Aegean Sea","type":"sea","abbrevs":["aeg","aegean"],"supply":false},
 "Albania":{"name":"Albania","type":"land","abbrevs":["alb"],"supply":false},
