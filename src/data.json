@@ -73,4 +73,6 @@ var data={
 "Wales":{"name":"Wales","type":"land","abbrevs":["wal"],"supply":false,"abbrev":"wal","region":"England"},
 "Warsaw":{"name":"Warsaw","type":"land","abbrevs":["war"],"supply":false,"abbrev":"war","region":"Russia"},
 "Western Mediterranean":{"name":"Western Mediterranean","type":"sea","abbrevs":["wes","wmed","west","western","westmed","wms","wme"],"supply":false,"abbrev":"wms","region":"Mediterranean"},
-"Yorkshire":{"name":"Yorkshire","type":"land","abbrevs":["yor","york","yonkers"],"supply":false,"abbrev":"yor","region":"England"}};
+"Yorkshire":{"name":"Yorkshire","type":"land","abbrevs":["yor","york","yonkers"],"supply":false,"abbrev":"yor","region":"England"}
+
+};
