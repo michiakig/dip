@@ -26,7 +26,7 @@ fs.readFile('files/Diplomacy_fromWikibooks.svg', 'utf8', function (err,data) {
             continue;
         }
 
-        var ps = poly[0].attr('points').value().split(/\s|\t/);
+        var ps = poly[0].attr('points').value().split(/\s+/);
         for(var p = 0; p < ps.length; p++) {
             points[ps[p]] = points[ps[p]] || [];
             points[ps[p]].push(title);
