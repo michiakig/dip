@@ -20,7 +20,7 @@ fs.readFile('files/Diplomacy_fromWikibooks.svg', 'utf8', function (err,data) {
     for(var g = 0; g < gs.length; g++) {
         var title = gs[g].attr('title').value();
         var poly = gs[g].childNodes().filter(function(elem) {
-            return elem.name() === 'polygon';
+            return elem.name() === 'polygon' || elem.name() === 'polyline';
         });
         if(poly.length < 1) {
             continue;
