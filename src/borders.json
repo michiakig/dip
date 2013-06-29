@@ -3,8 +3,10 @@ var borders={
 "Barents Sea":["St Petersburg (nc)","Norwegian Sea","Norway"],
 "St Petersburg (nc)":["Barents Sea","Norway","Finland","St Petersburg (sc)","Moscow"],
 "Norwegian Sea":["Barents Sea","Norway","Edinburgh","Clyde","North Atlantic Ocean"],
-"Norway":["Norwegian Sea","Barents Sea","St Petersburg (nc)","Finland","Sweden","Skagerrak"],
-"Edinburgh":["Norwegian Sea","Clyde","Liverpool","Yorkshire"],
+"Norway":["Norwegian Sea","Barents Sea","St Petersburg (nc)","Finland","Sweden","Skagerrak","North Sea"],
+
+"Edinburgh":["Norwegian Sea","Clyde","Liverpool","Yorkshire","North Sea"],
+
 "Clyde":["Norwegian Sea","Edinburgh","North Atlantic Ocean","Liverpool"],
 "North Atlantic Ocean":["Norwegian Sea","Clyde","Liverpool","Irish Sea","Mid-Atlantic_Ocean"],
 "Switzerland":["Burgundy","Munich","Marseilles","Piedmont","Tyrolia"],
