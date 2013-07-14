@@ -1,4 +1,17 @@
 var borders={
+    "North Sea": [
+        "Edinburgh",
+        "Yorkshire",
+        "London",
+        "English Channel",
+        "Belgium",
+        "Holland",
+        "Helgoland Bight",
+        "Denmark",
+        "Skagerrak",
+        "Norway",
+        "Norwegian Sea",
+    ],
     "Barents Sea": [
         "St Petersburg (nc)",
         "Norwegian Sea",
@@ -12,6 +25,7 @@ var borders={
         "Moscow"
     ],
     "Norwegian Sea": [
+        "North Sea",
         "Barents Sea",
         "Norway",
         "Edinburgh",
@@ -27,6 +41,7 @@ var borders={
         "Skagerrak"
     ],
     "Edinburgh": [
+        "North Sea",
         "Norwegian Sea",
         "Clyde",
         "Liverpool",
@@ -257,6 +272,7 @@ var borders={
         "Kiel"
     ],
     "Denmark": [
+        "North Sea",
         "Baltic Sea",
         "Skagerrak",
         "Sweden",
@@ -264,6 +280,7 @@ var borders={
         "Helgoland Bight"
     ],
     "Skagerrak": [
+        "North Sea",
         "Baltic Sea",
         "Denmark",
         "Sweden",
@@ -316,6 +333,7 @@ var borders={
         "Ruhr"
     ],
     "Belgium": [
+        "North Sea",
         "Holland",
         "Ruhr",
         "Burgundy",
@@ -323,6 +341,7 @@ var borders={
         "English Channel"
     ],
     "Holland": [
+        "North Sea",
         "Belgium",
         "Ruhr",
         "Helgoland Bight",
@@ -343,6 +362,7 @@ var borders={
         "Paris"
     ],
     "English Channel": [
+        "North Sea",
         "Belgium",
         "Picardy",
         "Brest",
@@ -448,11 +468,13 @@ var borders={
         "Wales"
     ],
     "Helgoland Bight": [
+        "North Sea",
         "Denmark",
         "Kiel",
         "Holland"
     ],
     "Yorkshire": [
+        "North Sea",
         "Edinburgh",
         "Liverpool",
         "Wales",
@@ -473,6 +495,7 @@ var borders={
         "Yorkshire"
     ],
     "London": [
+        "North Sea",
         "English Channel",
         "Wales",
         "Yorkshire"
