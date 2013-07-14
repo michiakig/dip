@@ -10,7 +10,7 @@ var borders={
         "Denmark",
         "Skagerrak",
         "Norway",
-        "Norwegian Sea",
+        "Norwegian Sea"
     ],
     "Barents Sea": [
         "St Petersburg (nc)",
