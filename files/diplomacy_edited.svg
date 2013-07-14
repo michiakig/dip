@@ -39,9 +39,9 @@
      inkscape:window-height="746"
      id="namedview3709"
      showgrid="false"
-     inkscape:zoom="0.96584566"
-     inkscape:cx="55.20109"
-     inkscape:cy="283.64084"
+     inkscape:zoom="3.8291328"
+     inkscape:cx="209.68213"
+     inkscape:cy="273.93394"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -56,6 +56,13 @@ Created for Diplomap (http://www.games2relax.net/diplomap/)
 </desc>
   <defs
      id="defs2991">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-127.444 : 411.62249 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="610 : 280 : 1"
+       inkscape:persp3d-origin="305 : 186.66667 : 1"
+       id="perspective3364" />
     <style
        type="text/css"
        id="style2993">
@@ -88,15 +95,19 @@ Created for Diplomap (http://www.games2relax.net/diplomap/)
   </g>
   <g
      title="North Sea"
-     id="g3001">
+     id="g3001"
+     transform="translate(-0.03124842,-0.00286231)">
     <path
        class="w"
-       d="M171,197 L171,181 A27,27 0,0,1 198,154 L241,154 L241,224 L248,224 L245,237 L211,237 L211,301 L173,301 L165,293 L140,197Z"
-       id="path3003" />
+       d="m 171,197 0,-16 a 27,27 0 0 1 27,-27 l 43,0 0,70 7,0 -3,13 -34,0 0,64 -38,0 -8,-8 -25,-96 z"
+       id="path3003"
+       inkscape:connector-curvature="0"
+       style="fill:#99ccff;stroke:#000000;stroke-linejoin:round" />
     <text
        x="190"
        y="230"
-       id="text3005">NTH</text>
+       id="text3005"
+       style="font-size:8px;font-family:'Arial, Helvetica, sans-serif'">NTH</text>
   </g>
   <g
      title="Switzerland"
@@ -1037,7 +1048,8 @@ Created for Diplomap (http://www.games2relax.net/diplomap/)
          id="path3542" />
       <circle
          r="6"
-         id="circle3544" />
+         id="circle3544"
+         d="M 6,0 C 6,3.3137085 3.3137085,6 0,6 -3.3137085,6 -6,3.3137085 -6,0 c 0,-3.3137085 2.6862915,-6 6,-6 3.3137085,0 6,2.6862915 6,6 z" />
     </g>
     <g
        id="F">
@@ -1053,7 +1065,8 @@ Created for Diplomap (http://www.games2relax.net/diplomap/)
       <!-- colored SC -->
       <circle
          r="4"
-         id="circle3552" />
+         id="circle3552"
+         d="M 4,0 C 4,2.209139 2.209139,4 0,4 -2.209139,4 -4,2.209139 -4,0 c 0,-2.209139 1.790861,-4 4,-4 2.209139,0 4,1.790861 4,4 z" />
     </g>
     <use
        id="SC"
